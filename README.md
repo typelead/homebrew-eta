@@ -1,9 +1,11 @@
-This repo contains the formulae to install Eta, your favorite JVM language
+# Homebrew Formula for Etlas
+
+This repository contains a homebrew formula to install Etlas.
 
 ## Instructions
 
 ```
-# (optional) brew update
+brew update
 brew tap typelead/eta
 brew install eta
 ``` 
