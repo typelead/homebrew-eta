@@ -7,5 +7,5 @@ This repository contains a homebrew formula to install Etlas.
 ```
 brew update
 brew tap typelead/eta
-brew install eta
+brew install etlas
 ``` 
