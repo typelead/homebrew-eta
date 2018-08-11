@@ -6,13 +6,6 @@ This repository contains a homebrew formula to install Etlas (1.3.0.0).
 
 ```
 brew update
-brew tap mattlloyd101/eta
+brew tap typeload/eta
 brew install etlas
 ``` 
-
-## If upgrading from 1.2.0.0
-
-```
-brew tap mattlloyd101/eta
-brew upgrade mattlloyd101/eta/etlas
-```
