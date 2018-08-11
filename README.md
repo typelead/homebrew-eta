@@ -1,6 +1,6 @@
 # Homebrew Formula for Etlas
 
-This repository contains a homebrew formula to install Etlas.
+This repository contains a homebrew formula to install Etlas (1.3.0.0).
 
 ## Instructions
 
