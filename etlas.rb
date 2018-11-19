@@ -1,9 +1,9 @@
 class Etlas < Formula
   desc "Etlas, the build tool and package manager for the Eta programming language"
   homepage "https://eta-lang.org/"
-  url "https://github.com/typelead/etlas/archive/1.2.0.0.tar.gz"
-  sha256 "980302220b55fbe5270b62d6adafaeff280114333a5d90c591a9221cd6bba3a0"
-  version "1.2.0.0"
+  url "https://github.com/typelead/etlas/archive/1.5.1.0.tar.gz"
+  sha256 "7913d29b0cf580f94b50c963d28c37f73df9062a1a143723a5bcad8909691c38"
+  version "1.5.1.0"
   head "https://github.com/typelead/etlas.git"
 
   depends_on "haskell-stack" => :build
